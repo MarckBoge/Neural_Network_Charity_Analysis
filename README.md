@@ -28,4 +28,5 @@ In this analysis we learned and applied:
 
 
   • What variable(s) are considered the target(s) for your model?
-      IS_SUCCESSFUL-was the money used effectively
+  
+        ** IS_SUCCESSFUL-was the money used effectively
