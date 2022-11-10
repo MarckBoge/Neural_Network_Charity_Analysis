@@ -27,6 +27,6 @@ In this analysis we learned and applied:
 ### Data Preprocessing
 
 
-  • What variable(s) are considered the target(s) for your model?
+  * What variable(s) are considered the target(s) for your model?
   
         * IS_SUCCESSFUL-was the money used effectively
